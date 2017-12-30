@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "name": "learning-react-nextjs-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/firstziiz/learning-react-nextjs-101.git",
+  "author": "Kanisorn S. <firstziiz.k@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
